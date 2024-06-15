@@ -12,9 +12,12 @@ Improve organizational skills
 Remainder
 
 ## Operations
-ADD
+ADD 
+
 UPDATE
+
 DELETE
+
 Radio button (click to indicate that the task completed)
 
 ## Languages 
