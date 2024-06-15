@@ -1,8 +1,32 @@
-# React + Vite
+# TO-DO APP
+## This is a basic to-do app that can organize our daily tasks.
+The main aim of this project is to keep track of all tasks. This app helps to organize the tasks that we need to do in our daily life. Sometimes we might forget our daily task, but using this app we can add the task and keep track of what we have to do, and we can also add, update and delete tasks accordingly. After completing the task, we can even strike out to identify that we have completed the task.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Benefits
+keep track of tasks
+Ability to plan your work
+Improve organizational skills
+Remainder
 
-Currently, two official plugins are available:
+## Operations
+ADD
+UPDATE
+DELETE
+Radio button (click to indicate that the task completed)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Languages 
+HTML
+CSS
+React JS
+
+## Technologies
+Firebase
+Cloudflare
+
+## Software Installation
+Microsoft Visual Studio Code
+Node JS
+
+
+
+
