@@ -4,8 +4,11 @@ The main aim of this project is to keep track of all tasks. This app helps to or
 
 ## Benefits
 keep track of tasks
+
 Ability to plan your work
+
 Improve organizational skills
+
 Remainder
 
 ## Operations
@@ -16,15 +19,20 @@ Radio button (click to indicate that the task completed)
 
 ## Languages 
 HTML
+
 CSS
+
 React JS
 
 ## Technologies
 Firebase
+
 Cloudflare
+
 
 ## Software Installation
 Microsoft Visual Studio Code
+
 Node JS
 
 
