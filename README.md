@@ -1,5 +1,5 @@
 # TO-DO APP
-## This is a basic to-do app that can organize our daily tasks.
+## This is a basic to-do app that can keep track of our daily tasks.
 The main aim of this project is to keep track of all tasks. This app helps to organize the tasks that we need to do in our daily life. Sometimes we might forget our daily task, but using this app we can add the task and keep track of what we have to do, and we can also add, update and delete tasks accordingly. After completing the task, we can even strike out to identify that we have completed the task.
 
 ## Benefits
